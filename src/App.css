@@ -28,6 +28,13 @@
   color: #61dafb;
 }
 
+.container {
+  margin: 3rem 4rem
+}
+.submit-wrapper {
+  margin-top: 1.5rem
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
